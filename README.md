@@ -58,3 +58,4 @@ Streamlit Dashboard
 - **Aadharsh Desai**
 - **Mohamaed Lahbib**
 - **Amine Elmahi**
+- **Victor Battu**
