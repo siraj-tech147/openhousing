@@ -50,3 +50,11 @@ Streamlit Dashboard
         |
         v
  House Price Prediction
+
+## Group Members
+
+- **Sirajuddin Shaik**
+- **Achraf Gounadfa**
+- **Aadharsh Desai**
+- **Mohamaed Lahbib**
+- **Amine Elmahi**
